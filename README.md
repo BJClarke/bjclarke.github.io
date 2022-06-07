@@ -1,8 +1,6 @@
 # React Wordle
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
-
-[**Try out the demo!**](https://reactle.vercel.app/)
+Forked from https://github.com/cwackerfuss/react-wordle and updated to use 6-letter words.
 
 ## Build and run
 
